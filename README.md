@@ -10,7 +10,7 @@ I am a frontend developer working in React, React-Three-Fibre, ThreeJS, with a b
 * 😄 Pronouns: he/him
 * 🖥️  See my portfolio at [My Portfolio](http://www.hoabert.com)
 * ✉️  You can contact me at [hoa@secondlunchstudios.com](mailto:hoa@secondlunchstudios.com)
-* 🧠  I'm learning Express and Mongo.db
+* 🧠  I'm experimenting with Vite, Unreal, Metahuman, and Quest VR 
 * 🤝  I'm open to collaborating on projects involving AR/XR, threejs, or tools that help the development community
 
 ### Skills
